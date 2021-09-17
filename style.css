@@ -4,15 +4,18 @@ body {
 
 .jumbotron {
   padding-top: 10rem;
-  background-color: #474753;
+  background-color: #00001b;
 }
 
 #projects {
-  background-color: #474753;
+  background-color: #00001b;
 }
 
 #contact {
   background-color: #00001b;
+}
+#certificate {
+  background-color: #474753;
 }
 
 section {
